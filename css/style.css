@@ -5,6 +5,7 @@
 
 body {
     font: 14px/18px Tahoma, Arial, Sans-serif ;
+    scroll-behavior: smooth;
 }
 
 h1 {
